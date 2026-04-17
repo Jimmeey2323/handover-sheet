@@ -1,0 +1,18 @@
+{
+  "name": "p57-handover-roster",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js server for the 57 Physique new client handover roster sheet",
+  "main": "p57_handover_roster.js",
+  "scripts": {
+    "start": "node p57_handover_roster.js",
+    "check": "node --check p57_handover_roster.js"
+  },
+  "keywords": [
+    "nodejs",
+    "handover",
+    "roster",
+    "html"
+  ],
+  "license": "UNLICENSED"
+}
