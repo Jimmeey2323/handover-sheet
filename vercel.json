@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/p57_handover_roster.html"
+    }
+  ]
+}
